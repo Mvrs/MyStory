@@ -1,6 +1,6 @@
 # Project 1 - *MyStory*
 
-Submitted by: **Marlon Johnson**
+Submitted by: **Marlon Johnsons**
 
 **MyStory** is an app that introduces ... [TODO] 
 
