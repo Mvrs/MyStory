@@ -2,7 +2,7 @@
 
 Submitted by: **Marlon Johnson**
 
-**MyStory** is an app that introduces ... [TODO] 
+**MyStory** is an app that introduces 3 fun facts about myself. 
 
 Time spent: **X** hours spent in total
 
@@ -29,22 +29,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![Simulator Screen Recording - iPhone 14 Pro - 2023-02-27 at 23 39 34](https://user-images.githubusercontent.com/5723692/221786255-5d860852-c4d1-4b97-9552-c6ea98e8e6c5.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I decided to hardcode my Project with the UIKit and struggled implementing the UITableView that UIKit provides.
+Dealing with constraints and knowing what piece of code has major downsides became difficult to trace. Dealing with Xcode so far
+hasn't been great on the DX side of things, but my main concern was debugging the UI Layout; especially coming from React Native. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Marlon Johnson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
