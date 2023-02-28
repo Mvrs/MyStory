@@ -4,7 +4,7 @@ Submitted by: **Marlon Johnson**
 
 **MyStory** is an app that introduces 3 fun facts about myself. 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
